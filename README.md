@@ -1,6 +1,6 @@
-Programming Assignment 2
+## Programming Assignment 2
 
-Francisco Gomez 1775128
+# Francisco Gomez 
 
 __Queue.c__:
 This is the heart of the operation. This file holds 4 files which create a synchronous bounded buffer. The functions are queue.new, queuedelete, queuepush, queuepop. 
