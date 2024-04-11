@@ -1,6 +1,6 @@
-# Programming Assignment 2
+# Multithreaded Queue
 
-## Francisco Gomez 
+## Simple Push pop operation
 
 __Queue.c__:
 This is the heart of the operation. This file holds 4 files which create a synchronous bounded buffer. The functions are queue.new, queuedelete, queuepush, queuepop. 
